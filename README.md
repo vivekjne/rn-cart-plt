@@ -55,3 +55,10 @@ screens folder contains application screens for product and cart
 
 **components**
 components contain the different smaller components used for the screen.
+
+##DEMO
+
+
+
+https://user-images.githubusercontent.com/15060418/189360204-1342c2f8-14d1-420b-b3fb-ca5158df916c.mp4
+
